@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Computer Science Student | Data Scientist | AI & Blockchain Specialist | Cybersecurity Practitioner**
+**Computer Science Student | Data Scientist | Software Engineering | AI & Blockchain Developer | Cybersecurity Practitioner**
 
 📍 *Thohoyandou, Limpopo, South Africa* | 🎓 *University of Venda (2nd Year, Expected 2027)*
 
@@ -34,6 +34,7 @@ I'm a **results-driven 2nd-year Computer Science student** with a rare cross-dis
 ### **Languages & Core Tech**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square)
