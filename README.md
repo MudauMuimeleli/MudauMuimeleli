@@ -95,6 +95,16 @@ I'm a **results-driven 2nd-year Computer Science student** with a rare cross-dis
 ## 🚀 Featured Projects
 
 ### 1. **Neural Cloud Network**
+*JavaScript, Node.js, WebRTC, Distributed Systems*
+
+A research-focused distributed computing platform exploring neural-inspired networking, peer-to-peer communication, and scalable cloud architectures. Built to simulate large-scale intelligent networks using WebRTC mesh connections, real-time synchronization, and distributed processing concepts.
+
+**Key Features:**
+- Distributed node communication
+- WebRTC peer-to-peer networking
+- Real-time network visualization
+- Docker and Kubernetes deployment support
+- Scalable cloud architecture experimentation
 
 📊 [Explore Repository](https://github.com/MudauMuimeleli/Neural-Cloud-Network )
 
