@@ -75,10 +75,10 @@ I'm a **results-driven 2nd-year Computer Science student** with a rare cross-dis
 
 | Certification | Provider | Status |
 |---|---|---|
-| **IBM Data Science Professional Certificate** (12 Courses) | IBM / Coursera | ✅ In Progress (Apr 2026) |
+| **IBM Data Science Professional Certificate** (12 Courses) | IBM / Coursera | ✅ Completed (Apr 2026) |
 | **Software Engineering Specialization** (3 Courses) | HKUST / Coursera | ✅ In Progress (Apr 2026) |
-| **C++ Programming Fundamentals** | Microsoft / Coursera | ✅ In Progress (Apr 2026) |
-| **WeThinkCode_ GenAI Course for Software Engineers** | WeThinkCode_ | ✅ In Progress (Apr 2026) |
+| **C++ Programming Fundamentals** | Microsoft / Coursera | ✅ Completed (Apr 2026) |
+| **WeThinkCode_ GenAI Course for Software Engineers** | WeThinkCode_ | ✅ Completed (Apr 2026) |
 | **Cybersecurity Assessment: CompTIA Security+ & CySA+** | IBM / Coursera | ✅ Completed (Aug 2025) |
 | **Ethical Hacker** | Cisco Networking Academy | ✅ Completed (Jun 2025) |
 | **Cyber Threat Management** | Cisco Networking Academy | ✅ Completed (Jun 2025) |
