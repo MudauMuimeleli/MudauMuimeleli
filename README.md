@@ -7,7 +7,7 @@
 📍 *Thohoyandou, Limpopo, South Africa* | 🎓 *University of Venda (2nd Year, Expected 2027)*
 
 [![GitHub](https://img.shields.io/badge/GitHub-@MudauMuimeleli-181717?logo=github&style=for-the-badge)](https://github.com/MudauMuimeleli)
-[![Email](https://img.shields.io/badge/Email-mudaumuimeleli07%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:mudaumuimeleli97@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mudaumuimeleli97%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:mudaumuimeleli97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muimeleli%20Mudau-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muimeleli-mudau-510a26321)
 
 </div>
@@ -247,7 +247,7 @@ Full-stack educational platform backend with JWT authentication, MongoDB integra
 
 | Channel | Link |
 |---------|------|
-| **Email** | [mudaumuimeleli07@gmail.com](mailto:mudaumuimeleli97@gmail.com) |
+| **Email** | [mudaumuimeleli97@gmail.com](mailto:mudaumuimeleli97@gmail.com) |
 | **GitHub** | [@MudauMuimeleli](https://github.com/MudauMuimeleli) |
 | **LinkedIn** | [Muimeleli Mudau](https://www.linkedin.com/in/muimeleli-mudau-510a26321) |
 | **Location** | Thohoyandou, Limpopo, South Africa |
