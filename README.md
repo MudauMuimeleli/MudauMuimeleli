@@ -94,17 +94,9 @@ I'm a **results-driven 2nd-year Computer Science student** with a rare cross-dis
 
 ## 🚀 Featured Projects
 
-### 1. **Blockchain Asset Intelligence Platform**
-*Python, Blockchain, Smart Contracts, AI*
+### 1. **Neural Cloud Network**
 
-Architecting a decentralized platform that uses blockchain to tokenize and track real-world assets with AI-driven valuation and anomaly detection. Designed smart contract layer for immutable asset provenance records targeting SMEs and fintech use cases across Sub-Saharan Africa.
-
-**Key Features:**
-- Decentralized asset tracking with blockchain immutability
-- ML-based risk scoring for asset authentication
-- Smart contract layer for real-world asset provenance
-
-📊 [Explore Repository](https://github.com/MudauMuimeleli/Asset-Blockchain-Intelligence)
+📊 [Explore Repository](https://github.com/MudauMuimeleli/Neural-Cloud-Network )
 
 ---
 
